@@ -14,7 +14,7 @@ Este programa de Python está diseñado para facilitar la gestión de datos de a
 
 ## Requisitos Previos
 
-Para ejecutar este programa, necesitas tener Python y la biblioteca Pandas instalados en tu sistema. Este programa ha sido testeado con Python 3.8 y Pandas 1.2.4, pero debería ser compatible con versiones posteriores.
+Para ejecutar este programa, necesitas tener Python y la biblioteca Pandas instalados en tu sistema. Este programa ha sido testeado con Python 3.10.11 y Pandas 2.2.0, pero debería ser compatible con versiones posteriores.
 
 ## Instalación
 
