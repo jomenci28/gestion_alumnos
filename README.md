@@ -26,8 +26,9 @@ Para ejecutar este programa, necesitas tener Python y la biblioteca Pandas insta
 ### Instalar Pandas
 
 Abre una terminal y ejecuta el siguiente comando:
+```python
 pip install pandas
-
+```
 
 ## Uso
 
@@ -35,11 +36,14 @@ pip install pandas
 
 ```python
 archivo_excel = pd.ExcelFile('TU_RUTA/Listados.xlsx')
+```
 
 y reemplázala con la ruta correcta a tu archivo.
 
 2. **Ejecuta el Programa**: Navega a la carpeta que contiene gestion_alumnos.py en una terminal y ejecuta:
+```python
 python gestion_alumnos.py
+```
 
 3. **Revisa el Archivo Excel Generado:** Encuentra el archivo alumnos_fisica.xlsx en el mismo directorio del script. Este archivo contiene los datos procesados.
 
