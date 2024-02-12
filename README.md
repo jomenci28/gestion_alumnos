@@ -23,12 +23,14 @@ Para ejecutar este programa, necesitas tener Python y la biblioteca Pandas insta
 1. Descarga e instala la última versión de Python desde [python.org](https://www.python.org/downloads/).
 2. Durante la instalación, asegúrate de marcar la opción "Add Python to PATH".
 
-### Instalar Pandas
+### Instalar Dependencias
 
-Abre una terminal y ejecuta el siguiente comando:
-```python
-pip install pandas
-```
+Este proyecto requiere la biblioteca Pandas. Todas las dependencias pueden ser instaladas automáticamente utilizando el archivo `requirements.txt` incluido en este repositorio.
+
+En una terminal, ejecuta el siguiente comando en el directorio del proyecto:
+
+```bash
+pip install -r requirements.txt
 
 ## Uso
 
